@@ -1,0 +1,2 @@
+-- Spawn manager
+-- TODO: select spawn positions and validate

@@ -1,0 +1,2 @@
+-- Mission manager
+-- TODO: handle mission lifecycle

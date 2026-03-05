@@ -1,0 +1,2 @@
+-- Zone definitions
+Zones = {}
